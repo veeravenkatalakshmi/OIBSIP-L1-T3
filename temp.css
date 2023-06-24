@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500&family=Poppins:ital,wght@0,300;1,300&display=swap');
+*{
+ margin:0;
+    padding: 0;
+}
+body{
+   background-image:url("temperature.jpg");
+    display: flex;
+    justify-content: center;
+    
+}
+.box{
+    background-color: rgb(241, 230, 209);
+    width:30vw;
+    height:50vh;
+    margin-top: 10rem;
+    border-radius: 1rem;
+}
+h1{
+    text-align: center;
+    margin-top: 1rem;
+    color:aqua
+}
+.box2{
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 20px;
+}
+h2{
+    margin-top: 3rem;
+    color:violet;
+}
+button{
+    font-size: 18px;
+    color:blueviolet
+}
+#temperatureInput{
+    font-size: 17px;
+}
