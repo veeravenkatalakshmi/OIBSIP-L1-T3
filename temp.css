@@ -4,13 +4,13 @@
     padding: 0;
 }
 body{
-   background-image:url("temperature.jpg");
+   
     display: flex;
     justify-content: center;
     
 }
 .box{
-    background-color: rgb(241, 230, 209);
+    background-color:rgb(92, 90, 90);
     width:30vw;
     height:50vh;
     margin-top: 10rem;
